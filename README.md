@@ -21,7 +21,7 @@ This script will write a `vocab.pkl` file to `expr_data`
 
 ## Language Model
 ```
-DATA=~/path/to/data
+DATA=~/path/to/expr_data
 EXPR=~/path/to/save_models
 ```
 
